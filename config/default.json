@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "NKolosov097 mern",
+    "mongoUri": "mongodb+srv://Nikita:Pechenka097@cluster0.axb7ipg.mongodb.net/?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
